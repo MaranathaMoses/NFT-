@@ -1,0 +1,78 @@
+body {
+  width: 1440px;
+  background-color:  hsl(217, 54%, 11%)
+
+}
+
+hr {
+  background-color: hsl(215, 32%, 27%);
+  border-style: none;
+  height: 1px;
+}
+
+span {
+  color: hsl(0, 0%, 100%);
+}
+
+.white {
+  font-family: 'Outfit', sans-serif;
+  color: hsl(0, 0%, 100%);
+  Font-size: 18px;
+}
+
+.card {
+  position: relative;
+  background-color: hsl(216, 50%, 16%);
+  width: 320px;
+  height: 540px;
+  margin: 100px auto;
+  border-radius: 15px;
+  font-family: 'Outfit', sans-serif;
+  color: hsl(215, 51%, 70%);
+  Font-size: 18px;
+
+}
+
+.img {
+  position: relative;
+  top: 20px;
+  display: block;
+  width: 280px;
+  height: 270px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 15px;
+}
+
+.text {
+  position: relative;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.days {
+  padding-left: 80px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(228, 45%, 44%);
+}
+
+.cyan {
+  color: hsl(178, 100%, 50%);
+}
+
+.avatar {
+  position: relative;
+  border-radius: 50%;
+  width:30px;
+  border: 2px solid;
+  border-color: hsl(0, 0%, 100%);
+}
+
+.end {
+  padding-left: 10px;
+
+}
